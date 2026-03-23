@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "question": "What's your primary wellness goal right now?",
+    "options": [
+      { "label": "Better sleep & relaxation", "tags": ["sleep", "calming", "relaxation"] },
+      { "label": "More energy & focus", "tags": ["energy", "focus", "uplifting"] },
+      { "label": "Skin care & beauty", "tags": ["skin", "beauty", "glow"] },
+      { "label": "Emotional balance & mood support", "tags": ["mood", "emotions", "balance"] }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "How would you describe your current stress level?",
+    "options": [
+      { "label": "Very high - I need serious unwinding", "tags": ["calming", "sleep", "grounding"] },
+      { "label": "Moderate - occasional tension throughout the day", "tags": ["balance", "calming", "mood"] },
+      { "label": "Low - I just want to maintain my wellbeing", "tags": ["uplifting", "maintenance", "energy"] },
+      { "label": "Variable - it changes day to day", "tags": ["balance", "mood", "adaptable"] }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Which scent family appeals to you most?",
+    "options": [
+      { "label": "Fresh florals (lavender, rose, geranium)", "tags": ["floral", "calming", "skin"] },
+      { "label": "Bright citrus (lemon, orange, grapefruit)", "tags": ["citrus", "energy", "uplifting"] },
+      { "label": "Warm & woody (cedarwood, sandalwood, frankincense)", "tags": ["woody", "grounding", "meditation"] },
+      { "label": "Cool & herbaceous (peppermint, eucalyptus, rosemary)", "tags": ["herbal", "focus", "respiratory"] }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What does a typical day look like for you?",
+    "options": [
+      { "label": "Busy professional - always on the go", "tags": ["energy", "focus", "stress-relief"] },
+      { "label": "Active & outdoorsy - lots of physical activity", "tags": ["muscle", "respiratory", "energy"] },
+      { "label": "Homebody - focused on self-care and comfort", "tags": ["calming", "skin", "comfort"] },
+      { "label": "Creative - I need inspiration and clarity", "tags": ["mood", "uplifting", "focus"] }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "How experienced are you with essential oils?",
+    "options": [
+      { "label": "Complete beginner - never used them", "tags": ["beginner", "versatile", "gentle"] },
+      { "label": "I've tried a few basics", "tags": ["intermediate", "versatile", "blending"] },
+      { "label": "I use them regularly", "tags": ["advanced", "blending", "layering"] },
+      { "label": "I'm very experienced and want to expand", "tags": ["advanced", "rare", "premium"] }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Do you have sensitive skin or allergies to be aware of?",
+    "options": [
+      { "label": "Yes, my skin is quite sensitive", "tags": ["gentle", "skin", "mild"] },
+      { "label": "Somewhat - I'm cautious with new products", "tags": ["moderate", "skin", "versatile"] },
+      { "label": "No, my skin handles most things well", "tags": ["versatile", "potent", "variety"] },
+      { "label": "Not sure - I'd like to play it safe", "tags": ["gentle", "beginner", "mild"] }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "When do you most want to reach for essential oils?",
+    "options": [
+      { "label": "Morning - to start my day with intention", "tags": ["energy", "uplifting", "focus"] },
+      { "label": "Afternoon - to power through the midday slump", "tags": ["energy", "focus", "mood"] },
+      { "label": "Evening - to wind down and relax", "tags": ["calming", "sleep", "relaxation"] },
+      { "label": "Throughout the day - whenever I need a moment", "tags": ["versatile", "balance", "adaptable"] }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "How do you prefer to use essential oils?",
+    "options": [
+      { "label": "Diffusing - filling a room with aroma", "tags": ["aromatic", "diffuser", "atmosphere"] },
+      { "label": "Topically - rollers, massage, skincare", "tags": ["topical", "skin", "roller"] },
+      { "label": "In the bath or shower", "tags": ["bath", "relaxation", "self-care"] },
+      { "label": "DIY projects - cleaning, candles, recipes", "tags": ["diy", "cleaning", "creative"] }
+    ]
+  }
+]

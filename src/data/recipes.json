@@ -1,0 +1,291 @@
+[
+  {
+    "title": "Calming Bedtime Roller",
+    "slug": "calming-bedtime-roller",
+    "description": "A soothing blend designed to help promote relaxation before sleep. Roll onto wrists and temples as part of your evening wind-down routine.",
+    "recipeType": "Rollerball",
+    "difficulty": "BEGINNER",
+    "prepTime": 5,
+    "isPremium": false,
+    "oils": [
+      { "name": "Lavender", "slug": "lavender", "drops": 5 },
+      { "name": "Cedarwood", "slug": "cedarwood", "drops": 3 },
+      { "name": "Vetiver", "slug": "vetiver", "drops": 2 }
+    ],
+    "ingredients": [
+      { "name": "Fractionated Coconut Oil", "amount": "Fill 10ml roller bottle" }
+    ],
+    "instructions": "1. Remove the roller ball from a clean 10ml roller bottle.\n2. Add 5 drops of Lavender, 3 drops of Cedarwood, and 2 drops of Vetiver essential oil.\n3. Fill the remainder of the bottle with fractionated coconut oil, leaving a small gap at the top.\n4. Replace the roller ball and cap securely.\n5. Gently roll the bottle between your palms to mix.\n6. Apply to wrists, temples, and the bottoms of feet before bedtime.\n7. Store in a cool, dark place. Use within 6 months."
+  },
+  {
+    "title": "Morning Focus Diffuser Blend",
+    "slug": "morning-focus-diffuser-blend",
+    "description": "An energizing citrus and herbal blend to help you start the day with clarity and intention.",
+    "recipeType": "Diffuser Blend",
+    "difficulty": "BEGINNER",
+    "prepTime": 2,
+    "isPremium": false,
+    "oils": [
+      { "name": "Peppermint", "slug": "peppermint", "drops": 2 },
+      { "name": "Lemon", "slug": "lemon", "drops": 3 },
+      { "name": "Rosemary", "slug": "rosemary", "drops": 2 }
+    ],
+    "ingredients": [
+      { "name": "Water", "amount": "Fill diffuser to max line" }
+    ],
+    "instructions": "1. Fill your diffuser reservoir with clean water to the maximum fill line.\n2. Add 3 drops of Lemon, 2 drops of Peppermint, and 2 drops of Rosemary essential oil.\n3. Turn on the diffuser and enjoy the invigorating aroma.\n4. Run for 30-60 minutes during your morning routine.\n5. Tip: This blend pairs well with a morning journaling or stretching routine."
+  },
+  {
+    "title": "Soothing Muscle Massage Oil",
+    "slug": "soothing-muscle-massage-oil",
+    "description": "A warming massage blend designed to comfort tired muscles after physical activity.",
+    "recipeType": "Body Care",
+    "difficulty": "BEGINNER",
+    "prepTime": 5,
+    "isPremium": false,
+    "oils": [
+      { "name": "Peppermint", "slug": "peppermint", "drops": 4 },
+      { "name": "Eucalyptus", "slug": "eucalyptus", "drops": 3 },
+      { "name": "Marjoram", "slug": "marjoram", "drops": 3 }
+    ],
+    "ingredients": [
+      { "name": "Sweet Almond Oil", "amount": "2 tablespoons" }
+    ],
+    "instructions": "1. Pour 2 tablespoons of sweet almond oil into a small glass bowl.\n2. Add 4 drops of Peppermint, 3 drops of Eucalyptus, and 3 drops of Marjoram essential oil.\n3. Stir gently with a glass rod or clean spoon to combine.\n4. Massage into tired muscles using long, firm strokes.\n5. Focus on areas of tension such as shoulders, calves, or lower back.\n6. Store any leftover blend in a dark glass bottle for up to 1 month."
+  },
+  {
+    "title": "Citrus All-Purpose Cleaner",
+    "slug": "citrus-all-purpose-cleaner",
+    "description": "A fresh, natural cleaning spray using the purifying properties of citrus and tea tree essential oils.",
+    "recipeType": "Cleaning",
+    "difficulty": "BEGINNER",
+    "prepTime": 5,
+    "isPremium": false,
+    "oils": [
+      { "name": "Lemon", "slug": "lemon", "drops": 15 },
+      { "name": "Tea Tree", "slug": "tea-tree", "drops": 10 },
+      { "name": "Wild Orange", "slug": "wild-orange", "drops": 10 }
+    ],
+    "ingredients": [
+      { "name": "White Vinegar", "amount": "1/2 cup" },
+      { "name": "Distilled Water", "amount": "1/2 cup" },
+      { "name": "16oz Glass Spray Bottle", "amount": "1" }
+    ],
+    "instructions": "1. Pour 1/2 cup of white vinegar into a clean 16oz glass spray bottle.\n2. Add 15 drops of Lemon, 10 drops of Tea Tree, and 10 drops of Wild Orange essential oil.\n3. Fill the rest of the bottle with distilled water.\n4. Shake well before each use.\n5. Spray onto countertops, sinks, and other hard surfaces.\n6. Wipe clean with a microfiber cloth.\n7. Note: Avoid using on natural stone surfaces such as marble or granite."
+  },
+  {
+    "title": "Relaxing Lavender Bath Soak",
+    "slug": "relaxing-lavender-bath-soak",
+    "description": "A luxurious bath soak to melt away the day. The combination of Epsom salts and essential oils creates a spa-like experience at home.",
+    "recipeType": "Bath & Shower",
+    "difficulty": "BEGINNER",
+    "prepTime": 5,
+    "isPremium": false,
+    "oils": [
+      { "name": "Lavender", "slug": "lavender", "drops": 5 },
+      { "name": "Bergamot", "slug": "bergamot", "drops": 3 },
+      { "name": "Ylang Ylang", "slug": "ylang-ylang", "drops": 2 }
+    ],
+    "ingredients": [
+      { "name": "Epsom Salt", "amount": "1 cup" },
+      { "name": "Fractionated Coconut Oil", "amount": "1 tablespoon" },
+      { "name": "Baking Soda", "amount": "1/4 cup" }
+    ],
+    "instructions": "1. In a medium bowl, combine 1 cup of Epsom salt with 1/4 cup of baking soda.\n2. In a separate small bowl, mix 1 tablespoon of fractionated coconut oil with 5 drops of Lavender, 3 drops of Bergamot, and 2 drops of Ylang Ylang.\n3. Pour the oil mixture over the salt blend and stir thoroughly.\n4. Run a warm bath and add the entire mixture under running water.\n5. Soak for 20-30 minutes.\n6. Important: Bergamot is photosensitive. Avoid direct sun exposure for 12 hours after use."
+  },
+  {
+    "title": "Stress Relief Inhaler",
+    "slug": "stress-relief-inhaler",
+    "description": "A portable aromatherapy inhaler you can keep in your bag for moments of tension throughout the day.",
+    "recipeType": "Rollerball",
+    "difficulty": "BEGINNER",
+    "prepTime": 5,
+    "isPremium": false,
+    "oils": [
+      { "name": "Frankincense", "slug": "frankincense", "drops": 5 },
+      { "name": "Lavender", "slug": "lavender", "drops": 5 },
+      { "name": "Wild Orange", "slug": "wild-orange", "drops": 5 }
+    ],
+    "ingredients": [
+      { "name": "Blank Aromatherapy Inhaler", "amount": "1" }
+    ],
+    "instructions": "1. Open the blank aromatherapy inhaler and remove the cotton wick.\n2. Place the wick on a small dish or paper towel.\n3. Add 5 drops of Frankincense, 5 drops of Lavender, and 5 drops of Wild Orange onto the wick.\n4. Using tweezers, carefully insert the wick back into the inhaler tube.\n5. Snap the bottom cap securely in place.\n6. Hold the inhaler close to your nose and take 3-5 deep breaths.\n7. Use whenever you feel tension building. Refresh the wick every 2-3 months."
+  },
+  {
+    "title": "Glowing Skin Face Serum",
+    "slug": "glowing-skin-face-serum",
+    "description": "A nourishing facial serum that may help support a healthy, radiant-looking complexion. Suitable for most skin types when patch tested first.",
+    "recipeType": "Body Care",
+    "difficulty": "INTERMEDIATE",
+    "prepTime": 10,
+    "isPremium": false,
+    "oils": [
+      { "name": "Frankincense", "slug": "frankincense", "drops": 4 },
+      { "name": "Geranium", "slug": "geranium", "drops": 2 },
+      { "name": "Lavender", "slug": "lavender", "drops": 3 }
+    ],
+    "ingredients": [
+      { "name": "Jojoba Oil", "amount": "1 tablespoon" },
+      { "name": "Rosehip Seed Oil", "amount": "1 tablespoon" },
+      { "name": "1oz Dark Glass Dropper Bottle", "amount": "1" }
+    ],
+    "instructions": "1. Pour 1 tablespoon each of jojoba oil and rosehip seed oil into a clean 1oz dark glass dropper bottle.\n2. Add 4 drops of Frankincense, 2 drops of Geranium, and 3 drops of Lavender essential oil.\n3. Replace the dropper cap and gently roll the bottle between your palms to blend.\n4. To use, apply 3-4 drops to clean, slightly damp skin in the evening.\n5. Gently press the serum into your face and neck using upward motions.\n6. Always perform a patch test before first use.\n7. Store in a cool, dark place. Best used within 3 months."
+  },
+  {
+    "title": "Seasonal Support Diffuser Blend",
+    "slug": "seasonal-support-diffuser-blend",
+    "description": "A refreshing blend to support clear breathing during seasonal changes.",
+    "recipeType": "Diffuser Blend",
+    "difficulty": "BEGINNER",
+    "prepTime": 2,
+    "isPremium": false,
+    "oils": [
+      { "name": "Eucalyptus", "slug": "eucalyptus", "drops": 3 },
+      { "name": "Peppermint", "slug": "peppermint", "drops": 2 },
+      { "name": "Lemon", "slug": "lemon", "drops": 2 }
+    ],
+    "ingredients": [
+      { "name": "Water", "amount": "Fill diffuser to max line" }
+    ],
+    "instructions": "1. Fill your diffuser with water to the maximum fill line.\n2. Add 3 drops of Eucalyptus, 2 drops of Peppermint, and 2 drops of Lemon essential oil.\n3. Turn on the diffuser and let it run for 30-60 minutes.\n4. Use in the bedroom or living area during seasonal changes.\n5. This blend pairs well with keeping windows open for fresh air circulation."
+  },
+  {
+    "title": "Happy Mood Diffuser Blend",
+    "slug": "happy-mood-diffuser-blend",
+    "description": "An uplifting and cheerful blend to brighten your space and support a positive atmosphere.",
+    "recipeType": "Diffuser Blend",
+    "difficulty": "BEGINNER",
+    "prepTime": 2,
+    "isPremium": false,
+    "oils": [
+      { "name": "Wild Orange", "slug": "wild-orange", "drops": 3 },
+      { "name": "Grapefruit", "slug": "grapefruit", "drops": 2 },
+      { "name": "Bergamot", "slug": "bergamot", "drops": 2 }
+    ],
+    "ingredients": [
+      { "name": "Water", "amount": "Fill diffuser to max line" }
+    ],
+    "instructions": "1. Fill your diffuser reservoir with clean water to the maximum fill line.\n2. Add 3 drops of Wild Orange, 2 drops of Grapefruit, and 2 drops of Bergamot essential oil.\n3. Turn on the diffuser and enjoy the bright, citrusy aroma.\n4. Run for 30-60 minutes in your living space or home office.\n5. This blend is ideal for hosting or any time you want to create a welcoming atmosphere."
+  },
+  {
+    "title": "Tea Tree Blemish Spot Treatment",
+    "slug": "tea-tree-blemish-spot-treatment",
+    "description": "A targeted roller blend to help support clear, healthy-looking skin. For spot application only.",
+    "recipeType": "Rollerball",
+    "difficulty": "BEGINNER",
+    "prepTime": 5,
+    "isPremium": false,
+    "oils": [
+      { "name": "Tea Tree", "slug": "tea-tree", "drops": 4 },
+      { "name": "Lavender", "slug": "lavender", "drops": 3 },
+      { "name": "Frankincense", "slug": "frankincense", "drops": 2 }
+    ],
+    "ingredients": [
+      { "name": "Fractionated Coconut Oil", "amount": "Fill 5ml roller bottle" }
+    ],
+    "instructions": "1. Remove the roller ball from a clean 5ml roller bottle.\n2. Add 4 drops of Tea Tree, 3 drops of Lavender, and 2 drops of Frankincense essential oil.\n3. Fill the remainder of the bottle with fractionated coconut oil.\n4. Replace the roller ball and cap securely.\n5. Roll a small amount directly onto blemishes or areas of concern.\n6. Apply in the evening after cleansing your face.\n7. Always patch test before use. Discontinue if irritation occurs."
+  },
+  {
+    "title": "Luxurious Rose Body Butter",
+    "slug": "luxurious-rose-body-butter",
+    "description": "An indulgent whipped body butter infused with floral essential oils for silky, nourished skin.",
+    "recipeType": "Body Care",
+    "difficulty": "ADVANCED",
+    "prepTime": 30,
+    "isPremium": true,
+    "oils": [
+      { "name": "Rose", "slug": "rose", "drops": 3 },
+      { "name": "Geranium", "slug": "geranium", "drops": 4 },
+      { "name": "Lavender", "slug": "lavender", "drops": 5 },
+      { "name": "Frankincense", "slug": "frankincense", "drops": 3 }
+    ],
+    "ingredients": [
+      { "name": "Shea Butter", "amount": "1/2 cup" },
+      { "name": "Coconut Oil", "amount": "1/4 cup" },
+      { "name": "Jojoba Oil", "amount": "2 tablespoons" },
+      { "name": "Vitamin E Oil", "amount": "1 teaspoon" }
+    ],
+    "instructions": "1. Melt the shea butter and coconut oil together using a double boiler over low heat.\n2. Remove from heat and stir in the jojoba oil and vitamin E oil.\n3. Allow the mixture to cool slightly, then place in the refrigerator for about 1 hour until partially solid but still soft.\n4. Add all essential oils to the cooled mixture.\n5. Using a hand mixer or stand mixer, whip on high for 3-5 minutes until light and fluffy.\n6. Transfer to a clean glass jar with a tight-fitting lid.\n7. Apply generously to skin after bathing.\n8. Store in a cool place away from direct sunlight. Use within 3 months."
+  },
+  {
+    "title": "Deep Sleep Pillow Spray",
+    "slug": "deep-sleep-pillow-spray",
+    "description": "A calming pillow and linen mist to create a peaceful sleep environment using carefully selected relaxation-supporting oils.",
+    "recipeType": "Bath & Shower",
+    "difficulty": "INTERMEDIATE",
+    "prepTime": 10,
+    "isPremium": true,
+    "oils": [
+      { "name": "Lavender", "slug": "lavender", "drops": 15 },
+      { "name": "Roman Chamomile", "slug": "roman-chamomile", "drops": 8 },
+      { "name": "Vetiver", "slug": "vetiver", "drops": 5 },
+      { "name": "Cedarwood", "slug": "cedarwood", "drops": 5 }
+    ],
+    "ingredients": [
+      { "name": "Witch Hazel", "amount": "2 tablespoons" },
+      { "name": "Distilled Water", "amount": "3/4 cup" },
+      { "name": "4oz Glass Spray Bottle", "amount": "1" }
+    ],
+    "instructions": "1. Pour 2 tablespoons of witch hazel into a clean 4oz glass spray bottle.\n2. Add 15 drops of Lavender, 8 drops of Roman Chamomile, 5 drops of Vetiver, and 5 drops of Cedarwood essential oil.\n3. Swirl gently to combine the oils with the witch hazel.\n4. Fill the remainder of the bottle with distilled water.\n5. Replace the spray cap and shake well.\n6. Mist lightly over pillows and bed linens 15-20 minutes before bedtime.\n7. Shake before each use. Store in a cool, dark place. Best used within 2 months."
+  },
+  {
+    "title": "Grounding Meditation Blend",
+    "slug": "grounding-meditation-blend",
+    "description": "A deeply centering diffuser blend to enhance your meditation or mindfulness practice with warm, earthy aromas.",
+    "recipeType": "Diffuser Blend",
+    "difficulty": "INTERMEDIATE",
+    "prepTime": 2,
+    "isPremium": true,
+    "oils": [
+      { "name": "Frankincense", "slug": "frankincense", "drops": 3 },
+      { "name": "Sandalwood", "slug": "sandalwood", "drops": 2 },
+      { "name": "Patchouli", "slug": "patchouli", "drops": 1 },
+      { "name": "Cedarwood", "slug": "cedarwood", "drops": 2 }
+    ],
+    "ingredients": [
+      { "name": "Water", "amount": "Fill diffuser to max line" }
+    ],
+    "instructions": "1. Fill your diffuser with clean water to the maximum fill line.\n2. Add 3 drops of Frankincense, 2 drops of Sandalwood, 1 drop of Patchouli, and 2 drops of Cedarwood.\n3. Turn on the diffuser 5 minutes before starting your meditation practice.\n4. Find a comfortable seated position and begin your breathing exercises.\n5. Let the warm, earthy aroma create a grounding atmosphere.\n6. Run for 20-30 minutes during your practice."
+  },
+  {
+    "title": "Rejuvenating Shower Steamers",
+    "slug": "rejuvenating-shower-steamers",
+    "description": "Handmade aromatherapy shower steamers that release invigorating scents when activated by warm water and steam.",
+    "recipeType": "Bath & Shower",
+    "difficulty": "ADVANCED",
+    "prepTime": 45,
+    "isPremium": true,
+    "oils": [
+      { "name": "Eucalyptus", "slug": "eucalyptus", "drops": 20 },
+      { "name": "Peppermint", "slug": "peppermint", "drops": 15 },
+      { "name": "Rosemary", "slug": "rosemary", "drops": 10 }
+    ],
+    "ingredients": [
+      { "name": "Baking Soda", "amount": "1 cup" },
+      { "name": "Citric Acid", "amount": "1/3 cup" },
+      { "name": "Cornstarch", "amount": "1/2 cup" },
+      { "name": "Water", "amount": "Spray bottle for misting" },
+      { "name": "Silicone Mold", "amount": "1" }
+    ],
+    "instructions": "1. In a large bowl, whisk together 1 cup of baking soda, 1/3 cup of citric acid, and 1/2 cup of cornstarch.\n2. Add all essential oils to the dry mixture and stir thoroughly.\n3. Lightly mist with water from a spray bottle, stirring quickly to prevent fizzing, until the mixture holds together when squeezed (like wet sand).\n4. Press firmly into silicone mold cavities.\n5. Allow to dry and harden for 24-48 hours in a cool, dry place.\n6. Carefully remove from molds.\n7. To use, place one steamer on the shower floor (away from direct water stream) and let the steam activate the essential oils.\n8. Store in an airtight container. Makes approximately 6-8 steamers."
+  },
+  {
+    "title": "Immunity Support Roller",
+    "slug": "immunity-support-roller",
+    "description": "A protective essential oil roller blend to use as part of your seasonal wellness routine. Apply to bottoms of feet and along the spine.",
+    "recipeType": "Rollerball",
+    "difficulty": "INTERMEDIATE",
+    "prepTime": 5,
+    "isPremium": true,
+    "oils": [
+      { "name": "Oregano", "slug": "oregano", "drops": 2 },
+      { "name": "Frankincense", "slug": "frankincense", "drops": 3 },
+      { "name": "Tea Tree", "slug": "tea-tree", "drops": 3 },
+      { "name": "Lemon", "slug": "lemon", "drops": 3 }
+    ],
+    "ingredients": [
+      { "name": "Fractionated Coconut Oil", "amount": "Fill 10ml roller bottle" }
+    ],
+    "instructions": "1. Remove the roller ball from a clean 10ml roller bottle.\n2. Add 2 drops of Oregano (this is a hot oil, use sparingly), 3 drops of Frankincense, 3 drops of Tea Tree, and 3 drops of Lemon essential oil.\n3. Fill the remainder of the bottle with fractionated coconut oil, leaving a small gap at the top.\n4. Replace the roller ball and cap securely.\n5. Roll between your palms to blend.\n6. Apply to the bottoms of feet and along the spine as part of your daily wellness routine.\n7. Caution: Oregano oil is very potent. Do not apply to sensitive skin areas. Discontinue if irritation occurs. Always dilute properly."
+  }
+]

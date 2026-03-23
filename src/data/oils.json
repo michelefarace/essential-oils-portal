@@ -1,0 +1,892 @@
+[
+  {
+    "name": "Lavender",
+    "slug": "lavender",
+    "latinName": "Lavandula angustifolia",
+    "description": "Lavender is one of the most versatile and widely used essential oils in aromatherapy, with a history stretching back thousands of years to ancient Egypt, Greece, and Rome. Traditionally associated with relaxation and calm, it is commonly used to support restful sleep and ease occasional tension. The oil is steam-distilled from the flowering tops of the plant and is known for its gentle, floral aroma. It may help soothe minor skin irritations when properly diluted and is a staple in many natural skincare formulations.",
+    "shortDescription": "A versatile floral oil traditionally associated with relaxation, calm, and skin support.",
+    "topNote": "TOP",
+    "intensity": 4,
+    "categories": ["Calming & Sleep", "Skin & Beauty"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Add 3-4 drops to a diffuser for a calming atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to temples, wrists, or bottoms of feet", "dilution": "2-3 drops per teaspoon of carrier oil" },
+      { "method": "Bath", "instruction": "Add 5-8 drops mixed with a carrier oil to warm bathwater", "dilution": "Mix with carrier oil before adding to water" }
+    ],
+    "blendsWith": ["frankincense", "cedarwood", "bergamot", "clary-sage", "geranium", "ylang-ylang", "lemon"],
+    "safetyNotes": "Generally considered one of the safest essential oils. Avoid during the first trimester of pregnancy. May cause skin sensitivity in some individuals. Always patch test before widespread topical use."
+  },
+  {
+    "name": "Peppermint",
+    "slug": "peppermint",
+    "latinName": "Mentha x piperita",
+    "description": "Peppermint essential oil is steam-distilled from the leaves of the peppermint plant and is known for its sharp, invigorating menthol aroma. It has been traditionally used for centuries to support digestive comfort and promote feelings of clear breathing. The cooling sensation of peppermint may help soothe occasional head tension when applied topically to the temples. It is also commonly used to promote alertness and mental focus during periods of low energy.",
+    "shortDescription": "An invigorating minty oil traditionally used to support energy, focus, and digestive comfort.",
+    "topNote": "TOP",
+    "intensity": 7,
+    "categories": ["Energy & Focus", "Digestive Support", "Respiratory Support"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Add 2-3 drops to a diffuser for an energizing atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to temples, back of neck, or chest area", "dilution": "1-2 drops per teaspoon of carrier oil" },
+      { "method": "Inhalation", "instruction": "Place 1-2 drops in palms, rub together, and inhale deeply", "dilution": null }
+    ],
+    "blendsWith": ["lavender", "eucalyptus", "lemon", "rosemary", "tea-tree", "wild-orange"],
+    "safetyNotes": "Avoid use on children under 6 years old due to menthol content. Do not apply near the face of infants or young children. Avoid during pregnancy and breastfeeding. May irritate sensitive skin; always dilute properly. Keep away from eyes and mucous membranes."
+  },
+  {
+    "name": "Tea Tree",
+    "slug": "tea-tree",
+    "latinName": "Melaleuca alternifolia",
+    "description": "Tea Tree, also known as Melaleuca, is an essential oil steam-distilled from the leaves of the Australian tea tree. It has a long history of traditional use by indigenous Australians and is known for its fresh, medicinal aroma. Tea tree oil is commonly used in natural skincare routines for its cleansing and purifying properties. It may help support a clear, healthy-looking complexion and is a popular addition to household cleaning formulations.",
+    "shortDescription": "A purifying oil from Australia traditionally known for its cleansing and skin-supporting properties.",
+    "topNote": "MIDDLE",
+    "intensity": 6,
+    "categories": ["Skin & Beauty", "Cleansing & Purifying"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops to purify the air", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to skin blemishes or areas of concern", "dilution": "1-2 drops per teaspoon of carrier oil" },
+      { "method": "Household", "instruction": "Add 10-15 drops to a spray bottle with water and vinegar for a natural surface cleaner", "dilution": null }
+    ],
+    "blendsWith": ["lavender", "eucalyptus", "lemon", "rosemary", "cypress", "geranium"],
+    "safetyNotes": "For external use only. May cause skin irritation in sensitive individuals; always dilute before topical application. Avoid contact with eyes. Keep out of reach of children. Avoid during pregnancy without professional guidance."
+  },
+  {
+    "name": "Eucalyptus",
+    "slug": "eucalyptus",
+    "latinName": "Eucalyptus globulus",
+    "description": "Eucalyptus essential oil is derived from the leaves of the tall eucalyptus tree native to Australia. It is widely recognized for its fresh, camphoraceous aroma and has been traditionally used to support feelings of clear breathing and open airways. The oil is commonly used during the cooler months as part of a wellness routine. Eucalyptus may also help promote a sense of vitality and is a popular choice for use during steam inhalation practices.",
+    "shortDescription": "A refreshing oil traditionally associated with respiratory support and feelings of clear breathing.",
+    "topNote": "TOP",
+    "intensity": 7,
+    "categories": ["Respiratory Support", "Cleansing & Purifying", "Energy & Focus"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Add 3-4 drops to a diffuser, especially during seasonal changes", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to chest or bottoms of feet", "dilution": "2-3 drops per teaspoon of carrier oil" },
+      { "method": "Steam Inhalation", "instruction": "Add 2-3 drops to a bowl of hot water, drape a towel over head, and inhale", "dilution": null }
+    ],
+    "blendsWith": ["peppermint", "tea-tree", "lavender", "lemon", "rosemary", "cedarwood"],
+    "safetyNotes": "Avoid use on or near the face of children under 10 years old. Do not use on children under 3. May irritate sensitive skin. Avoid during pregnancy. Not for internal use. Keep away from eyes."
+  },
+  {
+    "name": "Lemon",
+    "slug": "lemon",
+    "latinName": "Citrus limon",
+    "description": "Lemon essential oil is cold-pressed from the rind of fresh lemons and carries a bright, clean, citrus aroma that is both uplifting and refreshing. It has been traditionally used to promote a positive mood and create an energizing atmosphere. Lemon oil is commonly included in natural cleaning products for its fresh scent and purifying qualities. It may also support healthy-looking skin when used in proper dilution as part of a skincare routine.",
+    "shortDescription": "A bright, uplifting citrus oil commonly used for its cheerful aroma and cleansing properties.",
+    "topNote": "TOP",
+    "intensity": 5,
+    "categories": ["Mood & Uplift", "Cleansing & Purifying", "Energy & Focus"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Add 3-5 drops to a diffuser for an uplifting, fresh atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to skin only at night or when not exposed to sunlight", "dilution": "2-3 drops per teaspoon of carrier oil" },
+      { "method": "Household", "instruction": "Add to DIY cleaning sprays for a fresh, purifying scent", "dilution": null }
+    ],
+    "blendsWith": ["lavender", "peppermint", "eucalyptus", "tea-tree", "rosemary", "ylang-ylang", "bergamot"],
+    "safetyNotes": "PHOTOTOXIC: Avoid direct sunlight or UV exposure on skin for at least 12 hours after topical application. May cause skin irritation if not properly diluted. Use caution during pregnancy. May degrade plastic surfaces; store properly."
+  },
+  {
+    "name": "Frankincense",
+    "slug": "frankincense",
+    "latinName": "Boswellia carterii",
+    "description": "Frankincense essential oil is steam-distilled from the resin of the Boswellia tree and has been treasured for thousands of years in spiritual and wellness traditions across the Middle East and North Africa. Its warm, woody, slightly sweet aroma is traditionally associated with meditation, grounding, and promoting a sense of inner peace. Frankincense is commonly used in skincare routines for its potential to support a healthy, youthful-looking complexion. It may also help promote feelings of relaxation and balanced mood.",
+    "shortDescription": "An ancient, revered oil traditionally associated with meditation, grounding, and skin rejuvenation.",
+    "topNote": "BASE",
+    "intensity": 4,
+    "categories": ["Calming & Sleep", "Skin & Beauty", "Grounding & Meditation"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops during meditation or quiet reflection", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to face as part of skincare routine or to bottoms of feet", "dilution": "2-3 drops per teaspoon of carrier oil" },
+      { "method": "Inhalation", "instruction": "Apply 1 drop to palms, rub together, cup over nose and inhale deeply", "dilution": null }
+    ],
+    "blendsWith": ["lavender", "myrrh", "cedarwood", "sandalwood", "bergamot", "rose", "ylang-ylang"],
+    "safetyNotes": "Generally well tolerated. Avoid during pregnancy, especially the first trimester. May interact with blood-thinning medications. Always dilute for topical use. Patch test before widespread application."
+  },
+  {
+    "name": "Oregano",
+    "slug": "oregano",
+    "latinName": "Origanum vulgare",
+    "description": "Oregano essential oil is steam-distilled from the leaves and flowers of the oregano herb and is known for its warm, herbaceous, and intensely spicy aroma. It has been traditionally used in Mediterranean cultures for centuries as part of wellness practices. Oregano oil is considered a very potent essential oil and is commonly associated with immune system support during seasonal transitions. Due to its strength, it requires significant dilution and careful handling.",
+    "shortDescription": "A potent, warming herb oil traditionally associated with immune and seasonal wellness support.",
+    "topNote": "MIDDLE",
+    "intensity": 9,
+    "categories": ["Immune Support", "Cleansing & Purifying"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 1-2 drops combined with a milder oil like lemon or lavender", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to bottoms of feet only, heavily diluted", "dilution": "1 drop per tablespoon of carrier oil (very heavy dilution required)" }
+    ],
+    "blendsWith": ["lemon", "frankincense", "tea-tree", "rosemary", "eucalyptus", "thyme"],
+    "safetyNotes": "HOT OIL: Requires very heavy dilution. Can cause severe skin irritation or burns if used undiluted. Avoid during pregnancy and breastfeeding. Not recommended for children under 12. Avoid if taking blood-thinning medications. Short-term use only. May irritate mucous membranes."
+  },
+  {
+    "name": "Rosemary",
+    "slug": "rosemary",
+    "latinName": "Rosmarinus officinalis",
+    "description": "Rosemary essential oil is steam-distilled from the flowering tops and leaves of the rosemary plant, a beloved Mediterranean herb. It has a fresh, herbaceous, slightly camphoraceous aroma and has been traditionally associated with memory, focus, and mental clarity since ancient Greek times. Rosemary is commonly used in hair care formulations and may support the appearance of thick, healthy-looking hair. It is also a popular choice for promoting feelings of alertness and supporting respiratory comfort.",
+    "shortDescription": "An herbaceous oil traditionally linked to mental clarity, focus, and healthy-looking hair.",
+    "topNote": "MIDDLE",
+    "intensity": 6,
+    "categories": ["Energy & Focus", "Hair & Scalp", "Respiratory Support"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops during study or work sessions", "dilution": null },
+      { "method": "Topical", "instruction": "Massage into scalp or apply to temples and back of neck", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["peppermint", "lavender", "eucalyptus", "lemon", "cedarwood", "frankincense"],
+    "safetyNotes": "Avoid during pregnancy. Not recommended for individuals with epilepsy or high blood pressure. Avoid use on children under 6. May cause skin irritation; always dilute properly."
+  },
+  {
+    "name": "Bergamot",
+    "slug": "bergamot",
+    "latinName": "Citrus bergamia",
+    "description": "Bergamot essential oil is cold-pressed from the rind of the bergamot orange, a citrus fruit primarily grown in southern Italy. It has a unique aroma that is at once citrusy, floral, and slightly spicy, making it one of the most complex citrus oils. Bergamot is traditionally associated with mood support and is commonly used to promote feelings of calm confidence and emotional balance. It is famously the flavoring used in Earl Grey tea and has a long history in Italian folk wellness traditions.",
+    "shortDescription": "A uniquely complex citrus oil traditionally associated with mood balance and emotional calm.",
+    "topNote": "TOP",
+    "intensity": 4,
+    "categories": ["Mood & Uplift", "Calming & Sleep", "Skin & Beauty"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops for a calming yet uplifting atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to wrists, bottoms of feet, or back of neck (avoid sun-exposed skin)", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["lavender", "ylang-ylang", "frankincense", "clary-sage", "geranium", "sandalwood", "lemon"],
+    "safetyNotes": "PHOTOTOXIC: Avoid direct sunlight or UV exposure for at least 12-18 hours after topical application. Bergaptene-free versions are available for daytime topical use. May cause skin sensitization. Avoid during pregnancy."
+  },
+  {
+    "name": "Ylang Ylang",
+    "slug": "ylang-ylang",
+    "latinName": "Cananga odorata",
+    "description": "Ylang Ylang essential oil is steam-distilled from the star-shaped flowers of the tropical Cananga tree, native to Southeast Asia. Its rich, sweet, intensely floral aroma has made it a prized ingredient in perfumery for over a century. Ylang Ylang is traditionally associated with promoting feelings of romance, joy, and emotional balance. It may help support a calm, positive mood and is commonly used in natural hair and skin care for its nourishing qualities.",
+    "shortDescription": "An exotic, richly floral oil traditionally used to promote joy, romance, and emotional balance.",
+    "topNote": "MIDDLE",
+    "intensity": 8,
+    "categories": ["Mood & Uplift", "Calming & Sleep", "Skin & Beauty", "Hair & Scalp"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 2-3 drops (use sparingly as scent is very strong)", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to wrists, behind ears, or add to hair care products", "dilution": "1-2 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["bergamot", "lavender", "frankincense", "sandalwood", "geranium", "vetiver", "grapefruit"],
+    "safetyNotes": "May cause headaches or nausea if used in excess due to its strong scent. Can cause skin sensitization; always dilute. Avoid during pregnancy. May lower blood pressure; use caution if hypotensive."
+  },
+  {
+    "name": "Cedarwood",
+    "slug": "cedarwood",
+    "latinName": "Cedrus atlantica",
+    "description": "Cedarwood essential oil is steam-distilled from the wood of the cedar tree and has been used since ancient times, with records of its use in Egyptian embalming and Mesopotamian temples. It has a warm, woody, slightly sweet aroma that is traditionally associated with grounding and calming the mind. Cedarwood is commonly used to promote restful sleep and is a popular addition to natural hair care products. It may also help support healthy-looking skin and is a favored base note in many essential oil blends.",
+    "shortDescription": "A warm, woody oil traditionally used for grounding, sleep support, and hair care.",
+    "topNote": "BASE",
+    "intensity": 4,
+    "categories": ["Calming & Sleep", "Hair & Scalp", "Grounding & Meditation"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops at bedtime for a calming woody atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to scalp, chest, or bottoms of feet", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["lavender", "frankincense", "rosemary", "bergamot", "ylang-ylang", "cypress", "vetiver"],
+    "safetyNotes": "Avoid during pregnancy. Generally well tolerated but may cause skin irritation in sensitive individuals. Always dilute for topical use."
+  },
+  {
+    "name": "Clary Sage",
+    "slug": "clary-sage",
+    "latinName": "Salvia sclarea",
+    "description": "Clary Sage essential oil is steam-distilled from the flowering tops and leaves of the clary sage plant, native to the Mediterranean region. It has a warm, herbal, slightly nutty aroma with sweet undertones. Clary Sage is traditionally associated with women's wellness and is commonly used to promote emotional balance during times of hormonal change. It may also help support a calm, relaxed mood and is valued for its soothing properties in aromatherapy.",
+    "shortDescription": "A warm, herbal oil traditionally associated with women's wellness and emotional balance.",
+    "topNote": "MIDDLE",
+    "intensity": 6,
+    "categories": ["Women's Wellness", "Calming & Sleep", "Mood & Uplift"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops for a soothing, balancing atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to abdomen, inner wrists, or bottoms of feet", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["lavender", "bergamot", "geranium", "frankincense", "cedarwood", "ylang-ylang", "sandalwood"],
+    "safetyNotes": "Avoid during pregnancy. Do not use with alcohol as it may intensify effects. May promote drowsiness; avoid driving after use. Not recommended for individuals with estrogen-sensitive conditions."
+  },
+  {
+    "name": "Geranium",
+    "slug": "geranium",
+    "latinName": "Pelargonium graveolens",
+    "description": "Geranium essential oil is steam-distilled from the leaves, stalks, and flowers of the geranium plant. It has a sweet, floral, slightly rosy aroma with green, herbal undertones. Geranium is traditionally associated with promoting emotional balance and supporting healthy, radiant-looking skin. It is commonly used in natural skincare for its potential to help balance oil production and support an even skin tone. The oil is also valued for its pleasant aroma as a natural insect deterrent.",
+    "shortDescription": "A rosy, floral oil traditionally used for skin balance, emotional harmony, and natural beauty.",
+    "topNote": "MIDDLE",
+    "intensity": 6,
+    "categories": ["Skin & Beauty", "Women's Wellness", "Mood & Uplift"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops for a floral, balancing atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to face (diluted in facial oil), wrists, or areas of skin concern", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["lavender", "rose", "bergamot", "clary-sage", "ylang-ylang", "cedarwood", "frankincense"],
+    "safetyNotes": "Avoid during pregnancy, especially the first trimester. May affect hormone-sensitive conditions. Patch test before facial use. Generally well tolerated when properly diluted."
+  },
+  {
+    "name": "Roman Chamomile",
+    "slug": "roman-chamomile",
+    "latinName": "Anthemis nobilis",
+    "description": "Roman Chamomile essential oil is steam-distilled from the daisy-like flowers of the chamomile plant and has been used in traditional European herbalism for centuries. It has a sweet, apple-like, herbaceous aroma that is deeply calming. Roman Chamomile is traditionally associated with promoting restful sleep, soothing occasional nervousness, and supporting a peaceful state of mind. It is also commonly used in skincare for its gentle, soothing qualities and is considered one of the milder essential oils suitable for use with older children.",
+    "shortDescription": "A gentle, sweet oil traditionally associated with deep calm, restful sleep, and soothing comfort.",
+    "topNote": "MIDDLE",
+    "intensity": 3,
+    "categories": ["Calming & Sleep", "Skin & Beauty", "Children's Wellness"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops at bedtime for a calming atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to temples, wrists, or bottoms of feet", "dilution": "1-2 drops per teaspoon of carrier oil" },
+      { "method": "Bath", "instruction": "Add 3-5 drops mixed with carrier oil to a warm bath", "dilution": "Mix with carrier oil before adding to water" }
+    ],
+    "blendsWith": ["lavender", "bergamot", "clary-sage", "geranium", "ylang-ylang", "rose", "frankincense"],
+    "safetyNotes": "Generally considered gentle and well tolerated. Avoid during the first trimester of pregnancy. Those with ragweed allergies may be sensitive to chamomile. Always dilute for topical use. One of the few oils considered appropriate (well-diluted) for children over 2."
+  },
+  {
+    "name": "German Chamomile",
+    "slug": "german-chamomile",
+    "latinName": "Matricaria chamomilla",
+    "description": "German Chamomile essential oil is steam-distilled from the flowers of Matricaria chamomilla and is notable for its deep blue color, which comes from the compound chamazulene produced during distillation. It has a warm, herbaceous, slightly sweet aroma that differs from its Roman cousin. German Chamomile is traditionally associated with soothing occasional skin irritations and supporting comfort in the body. It is commonly used in skincare formulations and may help promote a sense of physical ease.",
+    "shortDescription": "A deep blue oil traditionally used to soothe skin and support physical comfort.",
+    "topNote": "MIDDLE",
+    "intensity": 5,
+    "categories": ["Skin & Beauty", "Comfort & Soothing"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 2-3 drops for a calming, warm atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to areas of skin concern or discomfort", "dilution": "1-2 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["lavender", "frankincense", "geranium", "tea-tree", "rose", "cedarwood"],
+    "safetyNotes": "Avoid during pregnancy. Those with ragweed or Asteraceae family allergies may be sensitive. May stain fabric due to its deep blue color. Always dilute before topical use. Patch test recommended."
+  },
+  {
+    "name": "Ginger",
+    "slug": "ginger",
+    "latinName": "Zingiber officinale",
+    "description": "Ginger essential oil is steam-distilled from the rhizome of the ginger plant and carries a warm, spicy, earthy aroma familiar to anyone who has used fresh ginger in cooking. It has been a cornerstone of traditional wellness practices across Asia for thousands of years. Ginger oil is commonly associated with supporting digestive comfort and promoting a warming sensation. It may also help promote feelings of vitality and is traditionally used to support comfort during travel.",
+    "shortDescription": "A warm, spicy oil traditionally associated with digestive comfort and warming vitality.",
+    "topNote": "MIDDLE",
+    "intensity": 7,
+    "categories": ["Digestive Support", "Comfort & Soothing", "Energy & Focus"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 2-3 drops for a warming, invigorating atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to abdomen for digestive comfort or to joints and muscles", "dilution": "2-3 drops per teaspoon of carrier oil" },
+      { "method": "Inhalation", "instruction": "Inhale directly from the bottle during travel for comfort", "dilution": null }
+    ],
+    "blendsWith": ["lemon", "eucalyptus", "frankincense", "cedarwood", "wild-orange", "black-pepper", "cardamom"],
+    "safetyNotes": "May cause skin sensitization; always dilute well. Avoid during pregnancy. May interact with blood-thinning medications. Use in moderation as it can be warming to the skin."
+  },
+  {
+    "name": "Grapefruit",
+    "slug": "grapefruit",
+    "latinName": "Citrus x paradisi",
+    "description": "Grapefruit essential oil is cold-pressed from the rind of the grapefruit and has a bright, fresh, tangy citrus aroma that is instantly uplifting. It is commonly associated with promoting a positive, energized mood and is a popular choice in morning diffuser blends. Grapefruit oil is traditionally used to support feelings of motivation and may help create an invigorating atmosphere during exercise or active pursuits. It is also used in skincare for its refreshing, toning qualities.",
+    "shortDescription": "A bright, tangy citrus oil commonly used to promote energy, motivation, and a positive mood.",
+    "topNote": "TOP",
+    "intensity": 4,
+    "categories": ["Mood & Uplift", "Energy & Focus", "Skin & Beauty"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-5 drops for an energizing, uplifting atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to wrists or add to body lotion (avoid sun-exposed skin)", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["lemon", "bergamot", "lavender", "peppermint", "ylang-ylang", "rosemary", "wild-orange"],
+    "safetyNotes": "PHOTOTOXIC: Avoid direct sunlight or UV exposure for at least 12 hours after topical application. May interact with certain medications. Avoid during pregnancy. May cause skin sensitization."
+  },
+  {
+    "name": "Helichrysum",
+    "slug": "helichrysum",
+    "latinName": "Helichrysum italicum",
+    "description": "Helichrysum essential oil, also known as Immortelle or Everlasting, is steam-distilled from the flowers of the Helichrysum plant native to the Mediterranean. It is one of the most prized and costly essential oils, known for its warm, herbaceous, honey-like aroma. Helichrysum is traditionally associated with skin rejuvenation and is commonly used in anti-aging skincare formulations. It may help support the appearance of healthy, youthful-looking skin and is also traditionally used to promote comfort and recovery.",
+    "shortDescription": "A prized oil traditionally known as Immortelle, associated with skin rejuvenation and recovery.",
+    "topNote": "MIDDLE",
+    "intensity": 5,
+    "categories": ["Skin & Beauty", "Comfort & Soothing"],
+    "usageMethods": [
+      { "method": "Topical", "instruction": "Apply directly to areas of skin concern, well diluted", "dilution": "2-3 drops per teaspoon of carrier oil" },
+      { "method": "Aromatic", "instruction": "Diffuse 2-3 drops for a warm, restorative atmosphere", "dilution": null }
+    ],
+    "blendsWith": ["lavender", "frankincense", "rose", "geranium", "clary-sage", "cedarwood"],
+    "safetyNotes": "Generally well tolerated. Avoid during pregnancy. May interact with blood-thinning medications. Always dilute for topical use. Patch test recommended due to its potency."
+  },
+  {
+    "name": "Juniper Berry",
+    "slug": "juniper-berry",
+    "latinName": "Juniperus communis",
+    "description": "Juniper Berry essential oil is steam-distilled from the berries of the juniper shrub and has a fresh, woody, slightly sweet and peppery aroma. It has a long history of traditional use across many cultures, from Native American smudging practices to European herbal traditions. Juniper Berry is commonly associated with purification, grounding, and supporting a sense of emotional clarity. It may also help support healthy kidney and urinary function and is used in natural skincare for its cleansing properties.",
+    "shortDescription": "A fresh, woody oil traditionally associated with purification, grounding, and cleansing.",
+    "topNote": "MIDDLE",
+    "intensity": 5,
+    "categories": ["Cleansing & Purifying", "Grounding & Meditation", "Skin & Beauty"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops for a clean, grounding atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to lower back area or areas of concern", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["cedarwood", "cypress", "frankincense", "lavender", "bergamot", "rosemary", "sandalwood"],
+    "safetyNotes": "Avoid during pregnancy. Not recommended for those with kidney conditions. Avoid prolonged use. May cause skin irritation; always dilute. Not recommended for children under 6."
+  },
+  {
+    "name": "Lemongrass",
+    "slug": "lemongrass",
+    "latinName": "Cymbopogon flexuosus",
+    "description": "Lemongrass essential oil is steam-distilled from the tall, tropical lemongrass plant commonly found in Southeast Asian cuisine. It has a bright, lemony, slightly earthy aroma that is both invigorating and cleansing. Lemongrass is traditionally used as a natural insect deterrent and is commonly associated with purifying and freshening the air. It may help promote a sense of mental clarity and is a popular addition to massage blends for its warming qualities.",
+    "shortDescription": "A bright, lemony oil traditionally used for purification, insect deterrence, and invigoration.",
+    "topNote": "TOP",
+    "intensity": 7,
+    "categories": ["Cleansing & Purifying", "Energy & Focus", "Comfort & Soothing"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 2-3 drops to freshen and purify the air", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to muscles and joints after exercise", "dilution": "1-2 drops per teaspoon of carrier oil (use less as it can be irritating)" }
+    ],
+    "blendsWith": ["lavender", "peppermint", "eucalyptus", "tea-tree", "geranium", "basil", "cedarwood"],
+    "safetyNotes": "May cause significant skin irritation; always dilute well. Avoid during pregnancy. Not recommended for children under 6. May cause sensitivity in those with sensitive skin. Patch test recommended."
+  },
+  {
+    "name": "Marjoram",
+    "slug": "marjoram",
+    "latinName": "Origanum majorana",
+    "description": "Sweet Marjoram essential oil is steam-distilled from the leaves and flowering tops of the marjoram herb, a close relative of oregano but much gentler. It has a warm, woody, herbaceous aroma with subtle spicy notes. Marjoram is traditionally associated with promoting feelings of comfort and warmth, both physical and emotional. It is commonly used in massage blends for its potential to support muscle relaxation and is also valued for its calming properties to promote restful sleep.",
+    "shortDescription": "A warm, comforting herb oil traditionally used for muscle comfort and restful sleep.",
+    "topNote": "MIDDLE",
+    "intensity": 5,
+    "categories": ["Comfort & Soothing", "Calming & Sleep", "Muscle & Joint Support"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops at bedtime for a warm, relaxing atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to muscles, shoulders, or bottoms of feet", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["lavender", "rosemary", "eucalyptus", "cypress", "cedarwood", "bergamot", "roman-chamomile"],
+    "safetyNotes": "Avoid during pregnancy. May promote drowsiness; avoid driving after use. Use caution with low blood pressure. Always dilute for topical use."
+  },
+  {
+    "name": "Myrrh",
+    "slug": "myrrh",
+    "latinName": "Commiphora myrrha",
+    "description": "Myrrh essential oil is steam-distilled from the resin of the Commiphora myrrha tree, native to the Horn of Africa and the Arabian Peninsula. Alongside Frankincense, Myrrh is one of the oldest known aromatic substances, with recorded use dating back over 5,000 years. It has a warm, earthy, slightly balsamic aroma and is traditionally associated with meditation, spiritual practice, and skin care. Myrrh may help support a healthy-looking complexion and is commonly used to promote a sense of grounding and inner peace.",
+    "shortDescription": "An ancient, resinous oil traditionally used for meditation, grounding, and skin support.",
+    "topNote": "BASE",
+    "intensity": 6,
+    "categories": ["Grounding & Meditation", "Skin & Beauty"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 2-3 drops during meditation or spiritual practice", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to skin, especially dry or mature areas", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["frankincense", "lavender", "sandalwood", "cedarwood", "patchouli", "rose", "geranium"],
+    "safetyNotes": "Avoid during pregnancy and breastfeeding. May interact with blood-thinning and diabetes medications. Not recommended for children. Always dilute for topical use."
+  },
+  {
+    "name": "Neroli",
+    "slug": "neroli",
+    "latinName": "Citrus aurantium var. amara",
+    "description": "Neroli essential oil is steam-distilled from the delicate blossoms of the bitter orange tree and is one of the most precious and expensive essential oils available. Its exquisite, sweet, honeyed floral aroma has made it a prized ingredient in fine perfumery for centuries. Neroli is traditionally associated with calming the nervous system, promoting emotional balance, and supporting a sense of deep relaxation. It is also valued in skincare for its potential to support cell renewal and promote a radiant complexion.",
+    "shortDescription": "A precious floral oil from orange blossoms, traditionally associated with deep relaxation and luxury skincare.",
+    "topNote": "MIDDLE",
+    "intensity": 5,
+    "categories": ["Calming & Sleep", "Skin & Beauty", "Mood & Uplift"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 2-3 drops for a luxurious, calming atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to face as part of a skincare routine, wrists, or pulse points", "dilution": "1-2 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["lavender", "frankincense", "sandalwood", "rose", "bergamot", "ylang-ylang", "geranium"],
+    "safetyNotes": "Generally well tolerated. Avoid during pregnancy. May cause drowsiness. Always dilute for topical use. Due to its high cost, adulteration is common; source from reputable suppliers."
+  },
+  {
+    "name": "Wild Orange",
+    "slug": "wild-orange",
+    "latinName": "Citrus sinensis",
+    "description": "Wild Orange essential oil is cold-pressed from the rind of the sweet orange and is one of the most popular and accessible essential oils. Its bright, sweet, cheerful citrus aroma is an instant mood lifter. Wild Orange is traditionally associated with promoting feelings of happiness, abundance, and creativity. It is commonly used to create an uplifting and welcoming atmosphere in the home and may help support a positive outlook during times of occasional stress.",
+    "shortDescription": "A sweet, cheerful citrus oil commonly used to uplift mood and create a welcoming atmosphere.",
+    "topNote": "TOP",
+    "intensity": 3,
+    "categories": ["Mood & Uplift", "Energy & Focus", "Children's Wellness"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 4-5 drops for a happy, welcoming atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to wrists or use in massage blends (avoid sun-exposed skin)", "dilution": "2-3 drops per teaspoon of carrier oil" },
+      { "method": "Household", "instruction": "Add to DIY cleaning products for a fresh citrus scent", "dilution": null }
+    ],
+    "blendsWith": ["lavender", "frankincense", "peppermint", "ginger", "cinnamon-bark", "clove", "bergamot"],
+    "safetyNotes": "MILDLY PHOTOTOXIC: Use caution with sun exposure after topical application. Generally well tolerated and considered one of the gentler citrus oils. Avoid in first trimester of pregnancy. May degrade plastic surfaces."
+  },
+  {
+    "name": "Patchouli",
+    "slug": "patchouli",
+    "latinName": "Pogostemon cablin",
+    "description": "Patchouli essential oil is steam-distilled from the dried leaves of the patchouli plant, native to Southeast Asia. It has a rich, earthy, musky aroma that deepens and improves with age, much like fine wine. Patchouli is traditionally associated with grounding, emotional balance, and supporting a sense of calm. It is commonly used in skincare for its potential to help promote a smooth, youthful-looking complexion. The oil was famously associated with the counterculture movement of the 1960s but has been used in traditional Asian medicine for centuries.",
+    "shortDescription": "A rich, earthy oil traditionally used for grounding, emotional balance, and skin rejuvenation.",
+    "topNote": "BASE",
+    "intensity": 7,
+    "categories": ["Grounding & Meditation", "Skin & Beauty", "Calming & Sleep"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 2-3 drops (use sparingly; scent is very strong)", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to skin concerns, wrists, or behind ears", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["frankincense", "bergamot", "cedarwood", "ylang-ylang", "geranium", "vetiver", "myrrh", "sandalwood"],
+    "safetyNotes": "Avoid during pregnancy. Generally well tolerated topically. May cause skin sensitization in some individuals. Use sparingly due to strong aroma."
+  },
+  {
+    "name": "Rose",
+    "slug": "rose",
+    "latinName": "Rosa damascena",
+    "description": "Rose essential oil, often called the 'Queen of Essential Oils,' is steam-distilled from thousands of rose petals, making it one of the most expensive oils in the world. Its rich, deep, intoxicatingly floral aroma has been cherished across cultures for millennia. Rose oil is traditionally associated with love, emotional healing, and supporting a sense of inner beauty. It is commonly used in luxury skincare formulations for its potential to promote a radiant, youthful-looking complexion and is also valued for supporting emotional balance during times of grief or heartache.",
+    "shortDescription": "The precious 'Queen of Oils,' traditionally associated with love, emotional healing, and radiant skin.",
+    "topNote": "MIDDLE",
+    "intensity": 8,
+    "categories": ["Skin & Beauty", "Mood & Uplift", "Women's Wellness"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 1-2 drops for a luxurious, emotionally supportive atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to face as part of skincare routine or to heart area", "dilution": "1 drop per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["frankincense", "lavender", "sandalwood", "geranium", "bergamot", "ylang-ylang", "neroli", "roman-chamomile"],
+    "safetyNotes": "Avoid during the first trimester of pregnancy. Generally well tolerated. Due to extreme cost, adulteration is very common; always source from reputable suppliers. Always dilute for topical use."
+  },
+  {
+    "name": "Sandalwood",
+    "slug": "sandalwood",
+    "latinName": "Santalum album",
+    "description": "Sandalwood essential oil is steam-distilled from the heartwood of mature sandalwood trees, which must grow for at least 15-20 years before harvesting. It has a rich, creamy, warm, woody aroma that has been revered in Indian, Buddhist, and Egyptian traditions for thousands of years. Sandalwood is traditionally associated with meditation, spiritual practice, and promoting a sense of deep inner peace. It is commonly used in skincare for its potential to support a smooth, even complexion and is a treasured base note in perfumery.",
+    "shortDescription": "A sacred, creamy-woody oil traditionally used for meditation, grounding, and premium skincare.",
+    "topNote": "BASE",
+    "intensity": 5,
+    "categories": ["Grounding & Meditation", "Skin & Beauty", "Calming & Sleep"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops during meditation or for a warm, peaceful atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to forehead, temples, or pulse points; add to facial moisturizer", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["frankincense", "lavender", "rose", "ylang-ylang", "bergamot", "myrrh", "jasmine", "vetiver"],
+    "safetyNotes": "Generally well tolerated and considered one of the safer essential oils. Avoid during pregnancy. Ensure sustainable and ethical sourcing due to overharvesting concerns. Always dilute for topical use."
+  },
+  {
+    "name": "Spearmint",
+    "slug": "spearmint",
+    "latinName": "Mentha spicata",
+    "description": "Spearmint essential oil is steam-distilled from the leaves of the spearmint plant and offers a sweeter, gentler minty aroma compared to its cousin peppermint. It is commonly used as a milder alternative to peppermint, particularly in situations involving children or those with sensitivities. Spearmint is traditionally associated with promoting digestive comfort and uplifting the mood. It may help support a sense of focus and mental clarity while being less intense than peppermint.",
+    "shortDescription": "A gentle, sweet mint oil that serves as a milder alternative to peppermint for all ages.",
+    "topNote": "TOP",
+    "intensity": 4,
+    "categories": ["Digestive Support", "Energy & Focus", "Children's Wellness"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops for a gentle, refreshing atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to abdomen or temples", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["lavender", "peppermint", "lemon", "wild-orange", "grapefruit", "basil", "eucalyptus"],
+    "safetyNotes": "Gentler than peppermint but still avoid use on very young children (under 3). Avoid during pregnancy. Generally well tolerated when properly diluted."
+  },
+  {
+    "name": "Thyme",
+    "slug": "thyme",
+    "latinName": "Thymus vulgaris",
+    "description": "Thyme essential oil is steam-distilled from the leaves and flowering tops of the thyme herb and carries a strong, warm, herbaceous aroma. It has been used since ancient Egyptian and Greek times and was traditionally associated with courage, strength, and purification. Thyme is commonly used to support immune function during seasonal changes and is valued for its potent cleansing properties. It is a very strong oil that requires careful dilution and respectful use.",
+    "shortDescription": "A potent, warming herb oil traditionally associated with strength, immunity, and purification.",
+    "topNote": "MIDDLE",
+    "intensity": 8,
+    "categories": ["Immune Support", "Cleansing & Purifying", "Respiratory Support"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 1-2 drops blended with a milder oil", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to bottoms of feet only, well diluted", "dilution": "1 drop per tablespoon of carrier oil (heavy dilution required)" }
+    ],
+    "blendsWith": ["oregano", "rosemary", "lemon", "eucalyptus", "tea-tree", "lavender", "bergamot"],
+    "safetyNotes": "HOT OIL: Requires heavy dilution. May cause severe skin irritation if used undiluted. Avoid during pregnancy and breastfeeding. Not recommended for children under 12. May affect blood pressure. Avoid if taking blood-thinning medications. Use Thyme linalool chemotype for a gentler option."
+  },
+  {
+    "name": "Vetiver",
+    "slug": "vetiver",
+    "latinName": "Vetiveria zizanioides",
+    "description": "Vetiver essential oil is steam-distilled from the roots of a tropical grass native to India and is known for its deep, smoky, earthy aroma with sweet undertones. It is sometimes called the 'Oil of Tranquility' due to its deeply calming and grounding properties. Vetiver is traditionally associated with promoting focus, emotional grounding, and restful sleep. It is commonly used in aromatherapy for its potential to support calm attention and is a popular choice for evening diffuser blends.",
+    "shortDescription": "The deeply grounding 'Oil of Tranquility,' traditionally used for calm focus and restful sleep.",
+    "topNote": "BASE",
+    "intensity": 8,
+    "categories": ["Calming & Sleep", "Grounding & Meditation", "Energy & Focus"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 1-2 drops (very strong; blend with lighter oils)", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to bottoms of feet or back of neck at bedtime", "dilution": "1-2 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["lavender", "cedarwood", "sandalwood", "ylang-ylang", "frankincense", "bergamot", "patchouli", "roman-chamomile"],
+    "safetyNotes": "Generally well tolerated. Very thick oil; may need warming to dispense easily. Avoid during pregnancy. Always dilute for topical use. Use sparingly due to very strong aroma."
+  },
+  {
+    "name": "Wintergreen",
+    "slug": "wintergreen",
+    "latinName": "Gaultheria procumbens",
+    "description": "Wintergreen essential oil is steam-distilled from the leaves of the wintergreen plant and has a strong, sweet, minty aroma reminiscent of mint and birch. It is composed primarily of methyl salicylate, a compound closely related to aspirin. Wintergreen is traditionally used in massage blends for its cooling, soothing sensation on muscles and joints after physical activity. Due to its high methyl salicylate content, it is one of the most potent essential oils and must be used with extreme caution.",
+    "shortDescription": "A potent, cooling oil traditionally used for muscle and joint comfort after physical activity.",
+    "topNote": "TOP",
+    "intensity": 9,
+    "categories": ["Muscle & Joint Support", "Comfort & Soothing"],
+    "usageMethods": [
+      { "method": "Topical", "instruction": "Apply sparingly to muscles and joints, heavily diluted", "dilution": "1 drop per tablespoon of carrier oil (very heavy dilution required)" }
+    ],
+    "blendsWith": ["peppermint", "eucalyptus", "cypress", "marjoram", "lavender"],
+    "safetyNotes": "EXTREMELY POTENT: Contains high levels of methyl salicylate (similar to aspirin). NEVER use on children. Avoid during pregnancy and breastfeeding. Do not use with blood-thinning medications or aspirin allergy. Never apply undiluted. Do not use in large quantities. Can be toxic if ingested. Not recommended for diffusing in enclosed spaces."
+  },
+  {
+    "name": "Basil",
+    "slug": "basil",
+    "latinName": "Ocimum basilicum",
+    "description": "Basil essential oil is steam-distilled from the leaves and flowering tops of the sweet basil plant, a beloved culinary herb with roots in Indian and Mediterranean traditions. It has a fresh, sweet, herbal aroma with subtle anise-like notes. Basil is traditionally associated with promoting mental alertness, clarity of thought, and supporting a positive mood. It is commonly used in aromatherapy to help ease occasional tension and may support feelings of focus during demanding mental tasks.",
+    "shortDescription": "A fresh, herbal oil traditionally associated with mental clarity, alertness, and easing tension.",
+    "topNote": "TOP",
+    "intensity": 6,
+    "categories": ["Energy & Focus", "Comfort & Soothing", "Mood & Uplift"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 2-3 drops for a focusing, clarifying atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to temples, back of neck, or tense areas", "dilution": "1-2 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["peppermint", "lemon", "eucalyptus", "lavender", "geranium", "bergamot", "rosemary"],
+    "safetyNotes": "Avoid during pregnancy and breastfeeding. Not recommended for children under 6. May cause skin sensitization; always dilute. Avoid prolonged use. Those with estrogen-sensitive conditions should use caution."
+  },
+  {
+    "name": "Black Pepper",
+    "slug": "black-pepper",
+    "latinName": "Piper nigrum",
+    "description": "Black Pepper essential oil is steam-distilled from the dried peppercorns of the Piper nigrum vine and has a warm, spicy, sharp aroma with subtle woody undertones. It has been one of the world's most valued spices for thousands of years and was once worth more than gold. Black Pepper oil is traditionally associated with promoting circulation, warming the body, and supporting digestive comfort. It is commonly used in massage blends for its potential to soothe muscles and joints after physical exertion.",
+    "shortDescription": "A warm, spicy oil traditionally used to support circulation, digestion, and muscle comfort.",
+    "topNote": "MIDDLE",
+    "intensity": 6,
+    "categories": ["Comfort & Soothing", "Digestive Support", "Muscle & Joint Support"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 1-2 drops blended with complementary oils", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to muscles, joints, or abdomen", "dilution": "1-2 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["frankincense", "ginger", "cardamom", "sandalwood", "lavender", "lemon", "wild-orange"],
+    "safetyNotes": "May cause skin irritation; always dilute well. Avoid during pregnancy. May interact with certain medications. Use in moderation. Patch test before widespread topical use."
+  },
+  {
+    "name": "Cardamom",
+    "slug": "cardamom",
+    "latinName": "Elettaria cardamomum",
+    "description": "Cardamom essential oil is steam-distilled from the seeds of the cardamom plant, a prized spice native to India often called the 'Queen of Spices.' It has a warm, sweet, spicy aroma with subtle eucalyptus-like top notes. Cardamom is traditionally associated with supporting digestive comfort and promoting feelings of clear breathing. It is commonly used in Ayurvedic wellness practices and may help create a sense of warmth and ease, particularly when diffused or applied to the abdomen.",
+    "shortDescription": "The 'Queen of Spices,' traditionally used for digestive comfort and respiratory ease.",
+    "topNote": "MIDDLE",
+    "intensity": 5,
+    "categories": ["Digestive Support", "Respiratory Support"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 2-3 drops for a warm, spicy, inviting atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to abdomen or chest area", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["ginger", "cinnamon-bark", "wild-orange", "frankincense", "cedarwood", "bergamot", "ylang-ylang"],
+    "safetyNotes": "Generally well tolerated. Avoid during pregnancy. May cause skin sensitization; always dilute. Use in moderation."
+  },
+  {
+    "name": "Cinnamon Bark",
+    "slug": "cinnamon-bark",
+    "latinName": "Cinnamomum verum",
+    "description": "Cinnamon Bark essential oil is steam-distilled from the inner bark of the cinnamon tree and has a warm, sweet, spicy aroma that is instantly recognizable. It has been used for thousands of years in traditional Chinese and Ayurvedic wellness systems. Cinnamon Bark oil is traditionally associated with promoting immune support, warming the body, and creating a cozy, inviting atmosphere. It is an extremely potent oil that requires very careful handling and significant dilution for any topical application.",
+    "shortDescription": "A powerful, warming spice oil traditionally associated with immune support and cozy comfort.",
+    "topNote": "MIDDLE",
+    "intensity": 9,
+    "categories": ["Immune Support", "Comfort & Soothing"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 1 drop blended with 3-4 drops of a milder oil like wild orange", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to bottoms of feet only, extremely well diluted", "dilution": "1 drop per tablespoon of carrier oil (very heavy dilution required)" }
+    ],
+    "blendsWith": ["wild-orange", "clove", "frankincense", "ginger", "cardamom", "ylang-ylang"],
+    "safetyNotes": "HOT OIL: Extremely potent. Can cause severe skin burns if used undiluted. Requires very heavy dilution. Avoid during pregnancy and breastfeeding. Not recommended for children under 12. May irritate mucous membranes. May affect blood sugar levels and interact with diabetes medications. May interact with blood-thinning medications."
+  },
+  {
+    "name": "Clove",
+    "slug": "clove",
+    "latinName": "Eugenia caryophyllata",
+    "description": "Clove essential oil is steam-distilled from the dried flower buds of the clove tree, native to the Spice Islands of Indonesia. It has a warm, spicy, penetrating aroma with slightly sweet undertones. Clove has been traditionally used for centuries in dental care practices and is associated with oral comfort. It is commonly used to support immune function and is a popular ingredient in warming seasonal blends. Clove oil is quite potent and requires significant dilution.",
+    "shortDescription": "A warm, spicy oil traditionally associated with oral comfort, immune support, and seasonal warmth.",
+    "topNote": "MIDDLE",
+    "intensity": 8,
+    "categories": ["Immune Support", "Oral Care"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 1-2 drops blended with complementary oils like wild orange or cinnamon", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to bottoms of feet or gum area (heavily diluted)", "dilution": "1 drop per tablespoon of carrier oil (heavy dilution required)" }
+    ],
+    "blendsWith": ["wild-orange", "cinnamon-bark", "ginger", "frankincense", "rosemary", "lemon"],
+    "safetyNotes": "HOT OIL: Can cause skin irritation and burns if not heavily diluted. Avoid during pregnancy and breastfeeding. Not recommended for children under 12. May interact with blood-thinning medications. Use in moderation; prolonged use not recommended. May affect blood sugar levels."
+  },
+  {
+    "name": "Copaiba",
+    "slug": "copaiba",
+    "latinName": "Copaifera officinalis",
+    "description": "Copaiba essential oil is steam-distilled from the oleoresin of the Copaiba tree, native to the Amazon rainforest of South America. It has a mild, warm, woody, honey-like aroma that is very gentle. Copaiba is traditionally used in Brazilian folk wellness practices and is known for its soothing properties. It is commonly associated with promoting a calm, positive mood and may help support overall comfort. Copaiba is one of the gentler essential oils and is a versatile addition to many blends.",
+    "shortDescription": "A gentle, woody oil from the Amazon, traditionally used for soothing comfort and calm mood support.",
+    "topNote": "BASE",
+    "intensity": 2,
+    "categories": ["Comfort & Soothing", "Calming & Sleep", "Skin & Beauty"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops for a warm, soothing atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to areas of concern or bottoms of feet", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["frankincense", "cedarwood", "lavender", "bergamot", "roman-chamomile", "ylang-ylang"],
+    "safetyNotes": "Generally well tolerated and considered one of the gentler essential oils. Avoid during pregnancy. May interact with medications metabolized by the liver. Always dilute for topical use."
+  },
+  {
+    "name": "Cypress",
+    "slug": "cypress",
+    "latinName": "Cupressus sempervirens",
+    "description": "Cypress essential oil is steam-distilled from the branches and needles of the evergreen cypress tree, native to the Mediterranean. It has a fresh, clean, woody aroma with subtle evergreen notes. Cypress is traditionally associated with supporting healthy circulation and promoting feelings of vitality and grounding. It is commonly used in massage blends, particularly for the legs and lower body, and is also valued for its clean, refreshing scent in natural deodorant formulations.",
+    "shortDescription": "A fresh, woody oil traditionally associated with circulation support, vitality, and grounding.",
+    "topNote": "MIDDLE",
+    "intensity": 4,
+    "categories": ["Muscle & Joint Support", "Grounding & Meditation", "Cleansing & Purifying"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops for a fresh, grounding atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to legs, chest, or areas of concern", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["cedarwood", "juniper-berry", "lavender", "eucalyptus", "bergamot", "pine", "frankincense"],
+    "safetyNotes": "Avoid during pregnancy. Generally well tolerated when properly diluted. Patch test recommended. May interact with hormone-sensitive conditions."
+  },
+  {
+    "name": "Dill",
+    "slug": "dill",
+    "latinName": "Anethum graveolens",
+    "description": "Dill essential oil is steam-distilled from the seeds or the whole plant of the common dill herb, well known in culinary traditions. It has a fresh, herbaceous, slightly sweet aroma with subtle anise-like notes. Dill is traditionally associated with supporting digestive comfort and promoting a sense of calm. It has been used in traditional European folk practices for centuries, particularly for soothing and comforting purposes. Dill oil is relatively gentle compared to many other essential oils.",
+    "shortDescription": "A fresh, gentle herb oil traditionally used for digestive comfort and calming support.",
+    "topNote": "MIDDLE",
+    "intensity": 3,
+    "categories": ["Digestive Support", "Calming & Sleep"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops for a fresh, calming atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to abdomen for digestive comfort", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["lemon", "wild-orange", "bergamot", "lavender", "spearmint", "roman-chamomile"],
+    "safetyNotes": "Avoid during pregnancy. Generally well tolerated. May cause photosensitivity in some individuals; use caution with sun exposure after topical application. Always dilute for topical use."
+  },
+  {
+    "name": "Fennel",
+    "slug": "fennel",
+    "latinName": "Foeniculum vulgare",
+    "description": "Fennel essential oil is steam-distilled from the crushed seeds of the fennel plant and has a warm, sweet, licorice-like aroma. It has been used in traditional wellness practices around the Mediterranean for thousands of years. Fennel is traditionally associated with supporting digestive comfort and is commonly used in aromatherapy for its potential to help promote a sense of fullness and satisfaction. It may also help support feelings of vitality and balanced hormones in women's wellness applications.",
+    "shortDescription": "A warm, sweet anise-scented oil traditionally used for digestive support and women's wellness.",
+    "topNote": "MIDDLE",
+    "intensity": 6,
+    "categories": ["Digestive Support", "Women's Wellness"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 2-3 drops for a warm, sweet atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to abdomen for digestive comfort", "dilution": "1-2 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["lavender", "lemon", "ginger", "wild-orange", "peppermint", "basil"],
+    "safetyNotes": "Avoid during pregnancy and breastfeeding. Not recommended for children under 6. Avoid if you have estrogen-sensitive conditions, epilepsy, or endometriosis. Do not use for extended periods. May interact with certain medications."
+  },
+  {
+    "name": "Jasmine",
+    "slug": "jasmine",
+    "latinName": "Jasminum grandiflorum",
+    "description": "Jasmine essential oil is typically obtained through solvent extraction from the delicate white flowers of the jasmine vine, often making it technically an 'absolute' rather than a true essential oil. It has a rich, warm, deeply floral, and intoxicating aroma that has been treasured in perfumery and traditional practices across India and the Middle East. Jasmine is traditionally associated with promoting feelings of romance, confidence, and joy. It may help support a positive, uplifted mood and is commonly used in luxury skincare formulations.",
+    "shortDescription": "An intoxicating floral oil traditionally associated with romance, confidence, and joyful mood.",
+    "topNote": "MIDDLE",
+    "intensity": 8,
+    "categories": ["Mood & Uplift", "Skin & Beauty", "Women's Wellness"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 1-2 drops for a romantic, luxurious atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to wrists, behind ears, or add to facial moisturizer", "dilution": "1 drop per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["rose", "sandalwood", "bergamot", "frankincense", "ylang-ylang", "neroli", "geranium"],
+    "safetyNotes": "Avoid during pregnancy (traditionally used only during labor). May cause skin sensitization; always dilute. Due to high cost, adulteration is common; source carefully. Strong scent may cause headaches in some individuals."
+  },
+  {
+    "name": "Lime",
+    "slug": "lime",
+    "latinName": "Citrus aurantiifolia",
+    "description": "Lime essential oil can be cold-pressed from the rind or steam-distilled from the whole fruit, with each method producing a slightly different aromatic profile. It has a bright, zesty, tangy citrus aroma that is refreshing and energizing. Lime is traditionally associated with promoting feelings of happiness, clarity, and invigoration. It is commonly used to uplift the mood, create a clean-smelling environment, and is a popular ingredient in tropical-inspired essential oil blends.",
+    "shortDescription": "A zesty, refreshing citrus oil traditionally used for uplifting mood and energizing the atmosphere.",
+    "topNote": "TOP",
+    "intensity": 5,
+    "categories": ["Mood & Uplift", "Energy & Focus", "Cleansing & Purifying"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops for a bright, uplifting atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to wrists or in massage blends (avoid sun exposure for cold-pressed version)", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["lemon", "grapefruit", "bergamot", "wild-orange", "ylang-ylang", "lavender", "peppermint"],
+    "safetyNotes": "PHOTOTOXIC (cold-pressed version): Avoid direct sunlight or UV exposure for at least 12 hours after topical application. Steam-distilled lime is not phototoxic. May cause skin irritation. Avoid during pregnancy."
+  },
+  {
+    "name": "Manuka",
+    "slug": "manuka",
+    "latinName": "Leptospermum scoparium",
+    "description": "Manuka essential oil is steam-distilled from the leaves and branches of the Manuka bush, native to New Zealand and closely related to Tea Tree. It has a rich, earthy, herbaceous aroma that is deeper and more complex than Tea Tree. Manuka is traditionally used by the indigenous Maori people of New Zealand and is known for its potent cleansing and skin-supporting properties. It may help promote a clear, healthy-looking complexion and is commonly used as part of a natural skincare routine.",
+    "shortDescription": "A potent New Zealand oil traditionally used by Maori for cleansing and skin support.",
+    "topNote": "MIDDLE",
+    "intensity": 6,
+    "categories": ["Skin & Beauty", "Cleansing & Purifying"],
+    "usageMethods": [
+      { "method": "Topical", "instruction": "Apply to areas of skin concern", "dilution": "2-3 drops per teaspoon of carrier oil" },
+      { "method": "Aromatic", "instruction": "Diffuse 2-3 drops for a purifying atmosphere", "dilution": null }
+    ],
+    "blendsWith": ["tea-tree", "lavender", "eucalyptus", "frankincense", "cedarwood", "geranium"],
+    "safetyNotes": "Avoid during pregnancy. May cause skin sensitization; always patch test. Generally well tolerated when properly diluted."
+  },
+  {
+    "name": "Melissa",
+    "slug": "melissa",
+    "latinName": "Melissa officinalis",
+    "description": "Melissa essential oil, also known as Lemon Balm, is steam-distilled from the leaves and flowering tops of the Melissa plant. It is one of the most expensive essential oils due to the extremely low yield from distillation. Melissa has a soft, sweet, lemony-herbaceous aroma and has been used in European herbal traditions since the Middle Ages. It is traditionally associated with promoting calm, supporting a positive mood, and easing occasional nervous tension. Melissa may also help support restful sleep.",
+    "shortDescription": "A precious lemon-scented herb oil, also known as Lemon Balm, traditionally used for calm and mood support.",
+    "topNote": "MIDDLE",
+    "intensity": 4,
+    "categories": ["Calming & Sleep", "Mood & Uplift"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 2-3 drops for a calm, uplifting atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to temples, wrists, or behind ears", "dilution": "1-2 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["lavender", "frankincense", "bergamot", "roman-chamomile", "rose", "geranium", "basil"],
+    "safetyNotes": "Avoid during pregnancy. May cause skin sensitization; always dilute and patch test. Due to extreme cost, it is one of the most commonly adulterated oils; source from reputable suppliers. May interact with thyroid and sedative medications."
+  },
+  {
+    "name": "Palmarosa",
+    "slug": "palmarosa",
+    "latinName": "Cymbopogon martinii",
+    "description": "Palmarosa essential oil is steam-distilled from the grass of the Cymbopogon martinii plant, a relative of lemongrass native to India. Despite being a grass, it has a sweet, rosy-floral aroma that is often used as a more affordable alternative to rose oil in skincare. Palmarosa is traditionally associated with supporting healthy, hydrated skin and may help promote a clear, balanced complexion. It is commonly used in natural skincare products and is also valued for its gentle, uplifting emotional qualities.",
+    "shortDescription": "A rosy-scented grass oil, an affordable alternative to rose for skin hydration and balance.",
+    "topNote": "MIDDLE",
+    "intensity": 4,
+    "categories": ["Skin & Beauty", "Mood & Uplift"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops for a sweet, floral atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Add to facial moisturizer or apply to areas of skin concern", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["geranium", "rose", "lavender", "bergamot", "ylang-ylang", "frankincense", "sandalwood"],
+    "safetyNotes": "Avoid during pregnancy. Generally well tolerated and considered gentle for topical use. Always dilute before applying. Patch test recommended."
+  },
+  {
+    "name": "Petitgrain",
+    "slug": "petitgrain",
+    "latinName": "Citrus aurantium",
+    "description": "Petitgrain essential oil is steam-distilled from the leaves and twigs of the bitter orange tree, the same tree that produces Neroli (from blossoms) and Bitter Orange (from fruit rind). It has a fresh, green, woody-floral aroma with subtle citrus undertones. Petitgrain is traditionally associated with promoting relaxation and mental clarity. It is often used as a more affordable alternative to Neroli and is commonly included in blends for calming the mind and supporting restful sleep.",
+    "shortDescription": "A fresh, green-floral oil from bitter orange leaves, traditionally used for relaxation and clarity.",
+    "topNote": "TOP",
+    "intensity": 4,
+    "categories": ["Calming & Sleep", "Mood & Uplift"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops for a fresh, calming atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to pulse points or add to body lotion", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["bergamot", "lavender", "neroli", "clary-sage", "geranium", "cedarwood", "ylang-ylang"],
+    "safetyNotes": "Generally well tolerated and not phototoxic (unlike citrus rind oils). Avoid during pregnancy. Always dilute for topical use."
+  },
+  {
+    "name": "Pine",
+    "slug": "pine",
+    "latinName": "Pinus sylvestris",
+    "description": "Pine essential oil is steam-distilled from the needles of the Scots Pine tree and carries the fresh, clean, invigorating scent of a forest. It has been traditionally used across Northern European and Native American cultures for purification and respiratory support. Pine oil is commonly associated with promoting feelings of clear breathing and refreshing the air. It may help create an energizing, outdoorsy atmosphere and is popular in natural cleaning products for its fresh, clean aroma.",
+    "shortDescription": "A fresh, forest-scented oil traditionally associated with clear breathing and air purification.",
+    "topNote": "MIDDLE",
+    "intensity": 5,
+    "categories": ["Respiratory Support", "Cleansing & Purifying", "Energy & Focus"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops for a fresh forest atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to chest or use in massage blends", "dilution": "2-3 drops per teaspoon of carrier oil" },
+      { "method": "Household", "instruction": "Add to natural cleaning solutions for a fresh pine scent", "dilution": null }
+    ],
+    "blendsWith": ["eucalyptus", "cedarwood", "cypress", "juniper-berry", "tea-tree", "lavender", "lemon"],
+    "safetyNotes": "May cause skin irritation; always dilute well. Avoid during pregnancy. Oxidized pine oil can be more irritating; store properly away from heat and light. Not recommended for children under 6."
+  },
+  {
+    "name": "Ravensara",
+    "slug": "ravensara",
+    "latinName": "Ravensara aromatica",
+    "description": "Ravensara essential oil is steam-distilled from the leaves of a tree native to Madagascar and has a fresh, slightly sweet, camphoraceous aroma with eucalyptus-like notes. It is sometimes confused with Ravintsara, which is a different species. Ravensara is traditionally used in Malagasy folk practices and is commonly associated with supporting respiratory comfort and immune function during seasonal transitions. It is considered a versatile and relatively gentle essential oil in aromatherapy practice.",
+    "shortDescription": "A fresh, camphoraceous oil from Madagascar traditionally used for respiratory and immune support.",
+    "topNote": "TOP",
+    "intensity": 5,
+    "categories": ["Respiratory Support", "Immune Support"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops during seasonal changes", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to chest, back, or bottoms of feet", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["eucalyptus", "tea-tree", "lavender", "frankincense", "rosemary", "lemon"],
+    "safetyNotes": "Avoid during pregnancy. Not recommended for children under 6. Generally well tolerated when properly diluted. Ensure correct species identification when purchasing, as it is often confused with Ravintsara."
+  },
+  {
+    "name": "Spikenard",
+    "slug": "spikenard",
+    "latinName": "Nardostachys jatamansi",
+    "description": "Spikenard essential oil is steam-distilled from the roots and rhizomes of a plant native to the Himalayan mountains. It has a deep, earthy, woody, musky aroma with sweet undertones. Spikenard is one of the most ancient aromatic substances, mentioned in biblical texts and used in Ayurvedic medicine for thousands of years. It is traditionally associated with deep relaxation, spiritual grounding, and promoting restful sleep. Spikenard is also used in skincare for mature or dry skin.",
+    "shortDescription": "An ancient, deeply earthy oil from the Himalayas, traditionally used for spiritual grounding and deep rest.",
+    "topNote": "BASE",
+    "intensity": 7,
+    "categories": ["Grounding & Meditation", "Calming & Sleep", "Skin & Beauty"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 1-2 drops during meditation or before sleep", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to bottoms of feet, pulse points, or areas of skin concern", "dilution": "1-2 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["frankincense", "myrrh", "lavender", "vetiver", "sandalwood", "rose", "cedarwood"],
+    "safetyNotes": "Avoid during pregnancy. May interact with sedative medications. Generally well tolerated when diluted. Use sparingly due to strong aroma. Ensure sustainable sourcing as the plant is considered threatened."
+  },
+  {
+    "name": "Tangerine",
+    "slug": "tangerine",
+    "latinName": "Citrus reticulata",
+    "description": "Tangerine essential oil is cold-pressed from the rind of the tangerine fruit and has a sweet, bright, slightly floral citrus aroma that is softer and sweeter than orange. It is one of the gentlest citrus oils and is commonly considered suitable for use around older children. Tangerine is traditionally associated with promoting feelings of joy, calm, and ease. It may help support a restful evening atmosphere and is commonly used in blends designed for relaxation and emotional uplift.",
+    "shortDescription": "A sweet, gentle citrus oil traditionally associated with joy, calm, and relaxation for all ages.",
+    "topNote": "TOP",
+    "intensity": 3,
+    "categories": ["Mood & Uplift", "Calming & Sleep", "Children's Wellness"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 4-5 drops for a sweet, calming atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to wrists or bottoms of feet (avoid sun-exposed skin)", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["lavender", "wild-orange", "bergamot", "ylang-ylang", "roman-chamomile", "frankincense", "neroli"],
+    "safetyNotes": "MILDLY PHOTOTOXIC: Avoid direct sunlight for at least 12 hours after topical application. Generally considered one of the gentler citrus oils. Avoid during the first trimester of pregnancy."
+  },
+  {
+    "name": "Turmeric",
+    "slug": "turmeric",
+    "latinName": "Curcuma longa",
+    "description": "Turmeric essential oil is steam-distilled from the rhizome of the turmeric plant, the same golden spice celebrated in Indian cuisine and Ayurvedic tradition for thousands of years. It has a warm, spicy, earthy, slightly woody aroma. Turmeric oil is traditionally associated with promoting comfort in the body and supporting a healthy response to occasional physical stress. It is commonly used to promote a sense of overall wellness and may help support healthy-looking skin when properly diluted.",
+    "shortDescription": "A warm, earthy spice oil from Ayurvedic tradition, traditionally used for comfort and wellness support.",
+    "topNote": "MIDDLE",
+    "intensity": 6,
+    "categories": ["Comfort & Soothing", "Skin & Beauty", "Immune Support"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 2-3 drops for a warm, grounding atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to areas of concern or bottoms of feet", "dilution": "1-2 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["ginger", "frankincense", "wild-orange", "black-pepper", "cardamom", "sandalwood"],
+    "safetyNotes": "May stain skin and clothing bright yellow. Avoid during pregnancy. May interact with blood-thinning medications and certain other drugs. Always dilute well for topical use. Patch test recommended."
+  },
+  {
+    "name": "White Fir",
+    "slug": "white-fir",
+    "latinName": "Abies alba",
+    "description": "White Fir essential oil is steam-distilled from the needles of the White Fir tree and has a fresh, clean, woody, balsamic aroma reminiscent of a crisp forest. It is traditionally associated with promoting feelings of grounding, stability, and clear breathing. White Fir is commonly used in aromatherapy to create an atmosphere that feels like a walk through an evergreen forest. It may help support respiratory comfort and is popular in blends designed for the cooler months of the year.",
+    "shortDescription": "A fresh, forest-scented oil traditionally associated with grounding, stability, and clear breathing.",
+    "topNote": "MIDDLE",
+    "intensity": 4,
+    "categories": ["Respiratory Support", "Grounding & Meditation"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops for a fresh, forest-like atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to chest or muscles after exercise", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["cedarwood", "pine", "cypress", "eucalyptus", "juniper-berry", "lavender", "frankincense"],
+    "safetyNotes": "Avoid during pregnancy. May cause skin sensitization; always dilute and patch test. Oxidized fir oil can be more irritating; store away from heat and light."
+  },
+  {
+    "name": "Arborvitae",
+    "slug": "arborvitae",
+    "latinName": "Thuja plicata",
+    "description": "Arborvitae essential oil is steam-distilled from the wood of the giant arborvitae tree, also known as Western Red Cedar, native to the Pacific Northwest of North America. Its name means 'tree of life' in Latin. It has a warm, earthy, woody aroma and is known for its natural preservative qualities. Arborvitae is traditionally associated with grounding and protection and is commonly used as a natural insect deterrent and wood preservative. It may help promote a sense of peace and connection with nature.",
+    "shortDescription": "The 'Tree of Life' oil, known for its grounding woody aroma and natural preservative qualities.",
+    "topNote": "BASE",
+    "intensity": 5,
+    "categories": ["Grounding & Meditation", "Cleansing & Purifying"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 2-3 drops for a warm, woody, grounding atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to bottoms of feet or pulse points", "dilution": "1-2 drops per teaspoon of carrier oil" },
+      { "method": "Household", "instruction": "Use as a natural wood preservative or insect deterrent", "dilution": null }
+    ],
+    "blendsWith": ["cedarwood", "frankincense", "sandalwood", "birch", "lavender", "white-fir"],
+    "safetyNotes": "Avoid during pregnancy and breastfeeding. Not recommended for children. Contains thujone, which can be toxic in large amounts; use sparingly. For external use only. Always dilute well for topical application."
+  },
+  {
+    "name": "Blue Tansy",
+    "slug": "blue-tansy",
+    "latinName": "Tanacetum annuum",
+    "description": "Blue Tansy essential oil is steam-distilled from the flowers and leaves of the annual blue tansy plant native to Morocco. It gets its striking deep blue color from the chamazulene compound produced during distillation. Blue Tansy has a sweet, herbaceous, slightly fruity aroma and should not be confused with common tansy (Tanacetum vulgare), which is toxic. Blue Tansy is traditionally associated with calming, soothing the skin, and promoting emotional balance. It is commonly used in skincare formulations for sensitive or irritated skin.",
+    "shortDescription": "A vibrant blue oil from Morocco, traditionally used for skin calming and emotional balance.",
+    "topNote": "MIDDLE",
+    "intensity": 5,
+    "categories": ["Skin & Beauty", "Calming & Sleep", "Mood & Uplift"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 2-3 drops for a calming, sweet atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to areas of skin concern or add to facial oil blends", "dilution": "1-2 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["lavender", "frankincense", "helichrysum", "roman-chamomile", "geranium", "cedarwood"],
+    "safetyNotes": "Avoid during pregnancy. Do NOT confuse with common tansy (Tanacetum vulgare), which is toxic. May stain skin and fabric due to deep blue color. Generally well tolerated but patch test recommended. Use from reputable sources to ensure correct species."
+  },
+  {
+    "name": "Magnolia",
+    "slug": "magnolia",
+    "latinName": "Michelia x alba",
+    "description": "Magnolia essential oil is steam-distilled from the flowers or bark of the magnolia tree, a plant that has existed for over 100 million years and holds deep significance in traditional Chinese wellness practices. It has a soft, sweet, floral aroma with subtle fruity and creamy notes. Magnolia is traditionally associated with promoting relaxation, calming the mind, and supporting restful sleep. It is commonly used in skincare for its potential to promote a smooth, even-looking complexion and is valued for its gentle, balancing emotional qualities.",
+    "shortDescription": "A soft, elegant floral oil traditionally associated with deep relaxation, calm, and skin smoothness.",
+    "topNote": "MIDDLE",
+    "intensity": 4,
+    "categories": ["Calming & Sleep", "Skin & Beauty", "Mood & Uplift"],
+    "usageMethods": [
+      { "method": "Aromatic", "instruction": "Diffuse 3-4 drops for a peaceful, floral atmosphere", "dilution": null },
+      { "method": "Topical", "instruction": "Apply to pulse points, add to facial oil, or apply to bottoms of feet", "dilution": "2-3 drops per teaspoon of carrier oil" }
+    ],
+    "blendsWith": ["lavender", "bergamot", "frankincense", "ylang-ylang", "sandalwood", "roman-chamomile", "neroli"],
+    "safetyNotes": "Avoid during pregnancy. Generally well tolerated and considered a gentle oil. Always dilute for topical use. Patch test recommended."
+  }
+]
