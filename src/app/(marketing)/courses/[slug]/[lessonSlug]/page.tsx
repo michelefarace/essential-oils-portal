@@ -95,8 +95,9 @@ export default async function LessonPage({
       ? course.lessons[currentIndex + 1]
       : null;
 
-  // If lesson is not free, show locked content page
-  if (!lesson.isFree) {
+  // If lesson is not free (and not in preview mode), show locked content page
+  const previewMode = process.env.PREVIEW_MODE === "true";
+  if (!lesson.isFree && !previewMode) {
     return <LockedLessonPage course={course} lesson={lesson} />;
   }
 
@@ -141,7 +142,7 @@ export default async function LessonPage({
               <nav className="space-y-1">
                 {course.lessons.map((l) => {
                   const isActive = l.slug === lessonSlug;
-                  const isAccessible = l.isFree;
+                  const isAccessible = l.isFree || previewMode;
 
                   return (
                     <div key={l.id}>
@@ -239,7 +240,7 @@ export default async function LessonPage({
 
             {/* Prev/Next Navigation */}
             <div className="mt-10 flex items-center justify-between gap-4 border-t border-sand-200 pt-8">
-              {prevLesson && prevLesson.isFree ? (
+              {prevLesson && (prevLesson.isFree || previewMode) ? (
                 <Link
                   href={`/courses/${course.slug}/${prevLesson.slug}`}
                   className="flex items-center gap-2 text-sm text-bark/60 hover:text-sage-600 transition-colors"
@@ -255,7 +256,7 @@ export default async function LessonPage({
               ) : (
                 <div />
               )}
-              {nextLesson && nextLesson.isFree ? (
+              {nextLesson && (nextLesson.isFree || previewMode) ? (
                 <Link
                   href={`/courses/${course.slug}/${nextLesson.slug}`}
                   className="flex items-center gap-2 text-sm text-bark/60 hover:text-sage-600 transition-colors text-right"
